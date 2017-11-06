@@ -1,7 +1,6 @@
 ## Hello World and Welcome to my github page
 
-
-Hello World! Praxitelis-Nikolaos Kouroupetroglou is an R, Python and Java Developer from Thessaloniki Greece, recently a MSc Graduate in Data Science from the Computer Science Dept. at Aristotle University, Praxitelis loves learning new skills and gain knowledge in Data Science. His main interests include Data Analysis, Web Mining, Data Mining, Text Mining, Machine Learning, Natural Language Processing, Social Network Analysis. Furthermore, He is a Java, Python and R Developer. Moreover, he is a Data Science MOOC learner and Kaggle data experimenter. Praxitelis' main future goal is to learn more about Machine Learning and Data Science in general and pursue a career in these fields.
+You can use the [editor on GitHub](https://github.com/praxitelisk/praxitelisk.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 ### Markdown
 
