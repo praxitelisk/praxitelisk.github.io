@@ -225,7 +225,10 @@ p {
   margin-bottom: 30px;
 }
 .main-wrapper .projects-section .item {
-  margin-bottom: 15px;
+	border-bottom-width: 1px;
+    margin-bottom: 15px;
+    border-bottom-style: dashed;
+  
 }
 .skillset .item {
   margin-bottom: 15px;
