@@ -224,11 +224,11 @@ p {
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
 }
-.main-wrapper .projects-section .item {
-	border-bottom-width: 1px;
-    margin-bottom: 15px;
+.main-wrapper .projects-section .item {    
+    border-bottom-width: 1px;
+    margin-bottom: 20px;
     border-bottom-style: dashed;
-	padding-bottom: 3px;
+    padding-bottom: 12px;
   
 }
 .skillset .item {
