@@ -229,7 +229,8 @@ p {
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
 }
-.main-wrapper .projects-section .item {    
+.main-wrapper .projects-section .item {
+    padding: 4px;
     border-bottom-width: 1px;
     margin-bottom: 20px;
     border-bottom-style: dashed;
@@ -238,6 +239,12 @@ p {
 
 .main-wrapper .projects-section .item:hover {    
     background-color: rgba(222,222, 222,0.5);
+}
+
+.date {
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    color: #3F4650;
 }
 
 .skillset .item {
