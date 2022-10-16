@@ -64,13 +64,13 @@ p {
   color: #fff;
 }
 .sidebar-wrapper .profile-container {
-  padding: 30px;
+  padding: 24px;
   background: rgba(0, 0, 0, 0.2);
   text-align: center;
   color: #fff;
 }
 .sidebar-wrapper .name {
-  font-size: 19px !important;
+  font-size: 16px !important;
   font-weight: 900;
   margin-top: 0;
   margin-bottom: 10px;
@@ -191,6 +191,8 @@ p {
   margin-bottom: 60px;
 }
 .main-wrapper .experiences-section .item {
+  border-bottom-style: dashed;
+  border-bottom-width: 1px;
   margin-bottom: 30px;
 }
 
