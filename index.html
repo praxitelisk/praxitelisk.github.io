@@ -451,7 +451,7 @@ analysis, and implementation of strategies to counteract deceptive activities.</
             </div>
             <div class="row">
                 <div class="col-lg-8 col-md-7 col-12 px-5 mb-3">
-                    Copyright 2023 All rights reserved.
+                    © <span id="current-year"></span> All rights reserved.</p>
                 </div>
                 <div class="col-lg-4 col-md-5 col-12 px-5 text-right">
                     Designed by <a href="https://templatemo.com" class="tm-text-gray" rel="sponsored" target="_parent">TemplateMo</a>
@@ -465,6 +465,8 @@ analysis, and implementation of strategies to counteract deceptive activities.</
         $(window).on("load", function() {
             $('body').addClass('loaded');
         });
+		
+		document.getElementById('current-year').textContent = new Date().getFullYear();
     </script>
 </body>
 </html>
